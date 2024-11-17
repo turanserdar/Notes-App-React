@@ -95,4 +95,7 @@ For any inquiries or feedback, feel free to reach out:
 Email: turanserdar@outlook.com.tr
 ## Preview
 Below is a preview of the interface:
+
+![notes-app-react](https://github.com/user-attachments/assets/534c535c-f776-4bd1-bd7d-406374268540)
+
    
